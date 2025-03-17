@@ -1,14 +1,14 @@
 
 export default function About() {
     return (
-        <section id="about" className="pt-36 pb-32 bg-sky-100">
+        <section id="about" className="pt-20 pb-32 bg-sky-100">
             <div className="container">
                 <div className="flex flex-wrap">
-                    <div className="w-full px-4 mb-10 lg:w-1/2">
-                        <h4 className="font-bold uppercase text-primary text-lg mb-3">Tentang Saya</h4>
+                    <div className="w-full px-4 mb-20 lg:w-1/2">
+                        <h4 className="font-semibold text-dark text-2xl mb-4 lg:text-3xl lg:pt-10">About Me</h4>
                         <p className="font-medium text-base text-slate-500 max-w-xl lg:text-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id sodales ipsum.</p>
                     </div>
-                    <div className="w-full px-4 lg:w-1/2">
+                    <div className="w-full px-4 mb-20 lg:w-1/2">
                         <h3 className="font-semibold text-dark text-2xl mb-4 lg:text-3xl lg:pt-10">Mari Bikin Website</h3>
                         <p className="font-medium text-base text-slate-500 mb-6 lg:text-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id sodales ipsum.</p>
                         <div className="flex items-center">

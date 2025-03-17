@@ -1,7 +1,7 @@
 import Hero from "./components/hero";
 import About from "./components/about";
 import Portofolio from "./components/portofolio";
-import Clients from "./components/clients";
+import Testimonials from "./components/testimonials";
 import Contact from "./components/contact";
 
 export default function Home() {
@@ -10,7 +10,7 @@ export default function Home() {
       <Hero />
       <About/>
       <Portofolio/>
-      <Clients/>
+      <Testimonials/>
       <Contact/>
     </div>
   ) 

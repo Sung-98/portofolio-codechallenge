@@ -1,10 +1,10 @@
-export default function Clients() {
+export default function Testimonials() {
   return (
-    <section id="clients" className="pt-36 pb-32 bg-slate-800">
+    <section id="Testimonials" className="pt-36 pb-32 bg-slate-800">
       <div className="container">
         <div className="w-full px-4">
                     <div className="mx-auto text-center mb-16">
-                        <h4 className="font-semibold text-lg text-primary mb-2">Clients</h4>
+                        <h4 className="font-semibold text-lg text-slate-200 font-serif italic mb-2">Testimonials</h4>
                         <h2 className="font-bold text-white text-3xl mb-4 sm:text-4xl lg:text-5xl">Yang Pernah Bekerjasama</h2>
                         <p className="font-medium text-md text-slate-500 md:text-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id sodales ipsum.</p>
                     </div>
